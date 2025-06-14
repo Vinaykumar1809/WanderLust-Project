@@ -20,7 +20,7 @@ const User = require("./models/user.js");
 const listingRouter = require("./routes/listing.js");
 const reviewRouter = require("./routes/review.js");
 const userRouter = require("./routes/user.js");
-
+const port = process.env.PORT || 8080;
 
 
 const dbUrl = process.env.ATLASDB_URL;
@@ -51,7 +51,7 @@ const store = MongoStore.create({
     touchAfter: 24*3600,
 });
 
-store.on("error",()=>{
+store.on("error",(err)=>{
   console.log("ERROR in MONGO SESSION STORE",err);
 });
 
@@ -123,6 +123,6 @@ app.use((err,req,res,next)=>{
 });
 
 
-app.listen(8080,()=>{
-    console.log("Server is listening to 8080");
+app.listen(port, () => {
+    console.log(`Server is listening on port ${port}`);
 });
