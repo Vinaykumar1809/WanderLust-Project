@@ -28,7 +28,80 @@ A full-stack travel lodging application inspired by platforms like Airbnb. Users
 
 ---
 ## 📸 Screenshots
----
+
+<h2>🖥️ Responsive Design (Desktop):</h2>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div style="text-align: center;">
+    <a href="https://github.com/user-attachments/assets/36181857-bda3-4ee4-92e5-97cca9635864" target="_blank">
+      <img src="https://github.com/user-attachments/assets/36181857-bda3-4ee4-92e5-97cca9635864" alt="Home Page" width="300px" style="border-radius: 8px;">
+    </a>
+    <p>Home Page</p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/user-attachments/assets/4555ae63-2b36-4e9e-b4ca-3fe8fbc95470" target="_blank">
+      <img src="https://github.com/user-attachments/assets/4555ae63-2b36-4e9e-b4ca-3fe8fbc95470" alt="Detail Page" width="300px" style="border-radius: 8px;">
+    </a>
+    <p>Listing Detail Page</p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/user-attachments/assets/56dca773-82e6-4c3b-a690-2343f64569a2" target="_blank">
+      <img src="https://github.com/user-attachments/assets/56dca773-82e6-4c3b-a690-2343f64569a2" alt="List Your Place" width="300px" style="border-radius: 8px;">
+    </a>
+    <p>List Your Place</p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/user-attachments/assets/0bf958aa-1c47-4455-9136-02b2b15f32b1" target="_blank">
+      <img src="https://github.com/user-attachments/assets/0bf958aa-1c47-4455-9136-02b2b15f32b1" alt="Sign Up Page" width="300px" style="border-radius: 8px;">
+    </a>
+    <p>Sign Up Page</p>
+  </div>
+
+</div>
+
+
+<h2>📱 Responsive Design (Mobile):</h2>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div style="text-align: center;">
+    <a href="https://github.com/user-attachments/assets/d8dbde73-0aaf-4c6a-b093-e9ca714deec3" target="_blank">
+      <img src="https://github.com/user-attachments/assets/d8dbde73-0aaf-4c6a-b093-e9ca714deec3" alt="Mobile Home Page" width="180px" style="border-radius: 8px;">
+    </a>
+    <p>Mobile Home Page</p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/user-attachments/assets/0077485d-9dfe-4298-835a-73e1b8b3510d" target="_blank">
+      <img src="https://github.com/user-attachments/assets/0077485d-9dfe-4298-835a-73e1b8b3510d" alt="Mobile Navbar" width="180px" style="border-radius: 8px;">
+    </a>
+    <p>Mobile Navbar</p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/user-attachments/assets/aef71ff6-5371-4bba-948d-3269b205954c" target="_blank">
+      <img src="https://github.com/user-attachments/assets/aef71ff6-5371-4bba-948d-3269b205954c" alt="Mobile Listing Page" width="180px" style="border-radius: 8px;">
+    </a>
+    <p>Listing Detail Page</p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/user-attachments/assets/2136e07b-e842-4985-88d3-f06f94a64d66" target="_blank">
+      <img src="https://github.com/user-attachments/assets/2136e07b-e842-4985-88d3-f06f94a64d66" alt="Mobile Sign Up Page" width="180px" style="border-radius: 8px;">
+    </a>
+    <p>Sign Up Page</p>
+  </div>
+
+</div>
+
+
+
+
+
 ## 🛠️ Tech Stack
 
 | Role             | Technology                          |
