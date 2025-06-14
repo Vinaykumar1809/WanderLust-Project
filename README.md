@@ -5,7 +5,9 @@ A full-stack travel lodging application inspired by platforms like Airbnb. Users
 
 ## 🔧 Table of Contents
 
-- [Features] 
+- [Features]
+- [Screenshots]
+- [Demo]
 - [Tech Stack]
 - [Getting Started]
   - [Prerequisites]
@@ -98,9 +100,16 @@ A full-stack travel lodging application inspired by platforms like Airbnb. Users
 
 </div>
 
+---
 
 
 
+## Demo
+
+ https://github.com/user-attachments/assets/3b85d943-b9ec-42a0-9f70-cba870c2f2b3
+
+ 
+---
 
 ## 🛠️ Tech Stack
 
@@ -185,7 +194,6 @@ WanderLust-Project/
 │   │   ├── components/
 │   │   ├── pages/
 │   │   └── services/         # Axios API calls
-├── screenshots/              # (optional) Screenshot images
 └── README.md
 ```
 
