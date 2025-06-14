@@ -2,6 +2,8 @@
 
 A full-stack travel lodging application inspired by platforms like Airbnb. Users can explore various listings, view detailed information, and add new places. Built using modern web technologies with an emphasis on clean UI, routing, and modular code structure.
 
+Implements a full-stack architecture using the MVC (Model-View-Controller) design pattern, separating data handling, user interface, and control logic for maintainability and scalability.
+
 
 ## 🔧 Table of Contents
 
