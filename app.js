@@ -24,7 +24,6 @@ const userRouter = require("./routes/user.js");
 
 
 const dbUrl = process.env.ATLASDB_URL;
-console.log("ATLASDB_URL:", dbUrl);
 
 main().then(()=>{
     console.log("connected to DB");
